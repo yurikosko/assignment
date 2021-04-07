@@ -1,4 +1,4 @@
-# In order to run tests fire `npm install` in project folder
+In order to run tests fire `npm install` in project folder
 <br/>
 Run tests:
 <br/>
